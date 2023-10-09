@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+#### I am currently a student studying Computer Science.
+#### I am interested in web development and python, especially using python with various APIs to do a lot of cool stuff.
+#### I am currently working on a Pyscript project and automating my Notion workspace using python.
+
 <!--
 **AbhayKejriwal/AbhayKejriwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
