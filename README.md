@@ -1,8 +1,8 @@
 ### Hi there, I am Abhay 👋
 
-#### I am currently a student studying Computer Science.
+#### I am currently a student studying Electronics and Computer Science.
 #### I am interested in web development and python, especially using python with various APIs to do a lot of cool stuff.
-#### I am currently working on a Pyscript project and automating my Notion workspace using python.
+#### I am currently working with Generative AI models and their applications.
 
 <!--
 **AbhayKejriwal/AbhayKejriwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
