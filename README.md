@@ -1,6 +1,6 @@
 ### Hi there, I am Abhay 👋
 
-#### I am currently a student studying Electronics and Computer Science.
+#### I am currently a student studying Electronics and Computer Engineering.
 #### I am interested in web development and python, especially using python with various APIs to do a lot of cool stuff.
 #### I am currently working with Generative AI models and their applications.
 
