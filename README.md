@@ -1,8 +1,6 @@
 ### Hi there, I am Abhay 👋
 
-#### I am currently a student studying Electronics and Computer Engineering.
-#### I am interested in web development and python, especially using python with various APIs to do a lot of cool stuff.
-#### I am currently working with Generative AI models and their applications.
+#### Interested and working with Generative AI models and their applications.
 
 <!--
 **AbhayKejriwal/AbhayKejriwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
